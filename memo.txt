@@ -1,1 +1,2 @@
 gitの操作をvs codeの機能で扱う練習用のリポジトリ
+push後に編集、modifyのmが出る
